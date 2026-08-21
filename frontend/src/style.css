@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #020617;
+}
+
+button,
+input,
+textarea {
+  font-family: inherit;
+}
+
